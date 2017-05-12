@@ -1,6 +1,0 @@
-localhost:8082
-git ssh://git@192.168.202.116:10023/test/testljs.git {
-	repo ssh://git@192.168.202.116:10023/test/testljs.git
-	key C:\Users\ljs\.ssh\id_rsa
-	hook http://192.168.202.116:10081/api/v4/projects/5/ref/REF_NAME/trigger/pipeline 62fc90b223a68acc74a12eca1fc0f3
-}
